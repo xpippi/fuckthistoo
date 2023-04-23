@@ -1,2 +1,6 @@
-# fuckthistoo
-oh
+# truth
+truth
+#false
+false
+##truth=false
+## xargs !!
